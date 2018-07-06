@@ -1,0 +1,72 @@
+.navleft{
+  margin-left: 5em;
+  margin-top: 5em
+}
+.navright{
+   text-align: right;
+   margin-right: 5em;
+  
+}
+
+
+
+.all{
+  text-align: center;
+  /* background-color: blueviolet; */
+  
+}
+
+/* head */
+.text{
+  color: white;
+  margin-bottom: 3em
+}
+
+
+h3 {
+  height: 20px;
+}
+/* our diet special */
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 38px;
+  background: #70d934;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+/* postmates label */
+.postma{
+  display: flex;
+  flex-direction: column;
+  padding: 2em;
+}
+
+.postma label{
+  margin-bottom: 2em;
+}
+
+/* bottom */
+footer{
+  color: white;
+  /* background-color: purple; */
+  
+}
+
+.changeactiveA{
+  display:none;
+}
